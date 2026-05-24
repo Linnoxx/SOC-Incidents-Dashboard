@@ -1,0 +1,115 @@
+# SOC Incident Analytics Dashboard
+
+## Project Overview
+
+This project is a Power BI dashboard designed to analyze telecom/service operations incidents in a simulated Service Operations Center (SOC) environment.
+
+The dashboard focuses on:
+- incident monitoring
+- SLA performance
+- MSP/vendor analysis
+- network reliability
+- operational trends
+
+The dataset was designed to simulate a real enterprise incident management workflow similar to ServiceNow environments.
+
+---
+
+## Problem Statement
+
+Service Operations Centers handle thousands of operational incidents across multiple regions, technologies, and vendors.
+
+Without proper analytics, it becomes difficult to:
+- track SLA compliance
+- identify recurring outages
+- evaluate MSP performance
+- monitor operational efficiency
+- detect unstable network sites
+
+This dashboard provides operational visibility and actionable insights through interactive Power BI reporting.
+
+---
+
+## Dashboard Pages
+
+### 1. Executive Overview
+Provides high-level operational KPIs including:
+- Total Incidents
+- Open Incidents
+- Resolved Incidents
+- SLA Compliance
+- Average Resolution Time
+
+### 2. MSP & SLA Performance
+Analyzes:
+- vendor performance
+- SLA breaches
+- escalation rates
+- resolution efficiency
+
+### 3. Network Reliability & Root Cause Analysis
+Focuses on:
+- repeat incidents
+- unstable sites
+- root cause analysis
+- technology reliability trends
+
+---
+
+## Key Metrics
+
+- Total Incidents
+- SLA Compliance %
+- Average Resolution Hours
+- Escalated Incidents
+- Repeat Incident Rate %
+- Critical Incidents
+
+---
+
+## Tools Used
+
+- Power BI
+- DAX
+- Excel / CSV Dataset
+
+---
+
+## Dataset Features
+
+The dataset includes approximately 5,000 simulated SOC incidents with:
+- Fiber incidents
+- Power incidents
+- Hardware incidents
+- SLA tracking
+- Escalations
+- Regional analysis
+- Root cause categories
+- MSP/vendor assignments
+
+---
+
+## Key Insights
+
+Some operational insights identified include:
+- Certain MSPs recorded higher SLA breach rates
+- Fiber-related incidents contributed significantly to outages
+- Some sites experienced repeated incidents indicating instability
+- Regional incident distribution varied significantly
+
+---
+
+## Limitations
+
+- Dataset is simulated for portfolio purposes
+- No real operational or customer data was used
+- MSP names and sites are fictional
+
+
+---
+
+## Author
+
+Linox Cool 
+
+Developed as part of a Business Intelligence and Power BI portfolio project focused on telecom operations analytics.
